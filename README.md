@@ -2,7 +2,7 @@
 
 
 
-Data Analyis and visualzation using
+Data Analyis and visualization using
 
 **Excel**
 
