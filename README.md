@@ -13,5 +13,6 @@ The sales report is presented in excel, visualized in ![Dashboard](https://lens.
 A similar report for product performance dashboard is prepared using Power BI, the visual ![display](https://lens.google.com/search?ep=gisbubb&hl=en-NG&re=df&p=Acn1BYeA0aJz9dwnDkmHtCRja2G4M9uwshXWM_9ybzVFnALW5Q4xynZ7_XHzADJ70U6kB-szk_OfIyAFjwkZn69uJTp-t25F-A4Y0be5e8UJwiC3owh40cB3gieqLgbWu_ADDYrveki1QaDToxPFuCJyTjoeStGE9OgZGOO60fsfDkk1oxxNWFQRiIBKs0bC9XZEi0oHFKq885KYUT174kQDAzQZzaSZcFWP-l7-dvRHjyqYF9Jzx5wyc1hsJkFOVG7WmTADeEIuaC9jG0qeagcw4HTfhhoDiDeX5PU795TiLkw7HRvSSQ%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRFkzWVRJd1ptTTNMVGczTnpjdE5HSXlZeTA0WVRkakxUbGhaVEptTVRnd1ltRmxaQklmT0Rrd1RIRkVVM2hqUzFsa1NVVXhUR3gwZUVKVlRISTBjbkk0WjIxU1p3PT0iLG51bGwsbnVsbCxudWxsLDEsbnVsbCxbbnVsbCxudWxsLFswLDAsMTAwMDAwLDEwMDAwMF0sbnVsbCw1XV0=) is made simple for everyone on the team. 
 
 **Python**
+
 The SafetyData and Security_Report projects data were sourced from the dailies for a month. It categorizes three major causes of death and the week of its occurence. It is aimed at identifying the major cause of death, the patterns of these occurences and most affected States and Zones. These analyses allows for a better understanding of what resources are used in managing the issues of insecurity and how these resources are allocated. 
 
