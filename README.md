@@ -14,5 +14,5 @@ A similar report for product performance dashboard is prepared using Power BI, t
 
 **Python**
 
-The SafetyData and Security_Report projects data were sourced from the dailies for a month. It categorizes three major causes of death and the week of its occurence. It is aimed at identifying the major cause of death, the patterns of these occurences and most affected States and Zones. These analyses allows for a better understanding of what resources are used in managing the issues of insecurity and how these resources are allocated. 
+The SafetyData and Security_Report projects data were sourced from the dailies for a month. It categorizes three major causes of death and the week of its occurrence. It is aimed at identifying the major cause of death, the patterns of these occurrences and most affected States and Zones. These analyses allow for a better understanding of what resources are used in managing the issues of insecurity and how these resources are allocated.
 
